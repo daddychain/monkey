@@ -1,0 +1,11 @@
+{
+  "test": [
+    "https://data-seed-prebsc-1-s2.binance.org:8545/"
+  ],
+  "main": [
+    "https://bsc-dataseed1.ninicoin.io"
+  ],
+  "eth": [
+    "https://rinkeby.infura.io/v3/b1d1aa7f2bf0433b9ac3cf03ab55a989"
+  ]
+}
